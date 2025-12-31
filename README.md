@@ -14,4 +14,4 @@ Atuo com Excel, Power BI e SQL, aplicando conceitos de finanças e contabilidade
 📌 Este perfil está em constante atualização com novos projetos.
 
 🎓 Formação  
-Ciências Contábeis
+- Ciências Contábeis
