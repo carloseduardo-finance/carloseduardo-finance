@@ -6,7 +6,6 @@ Atuo com Excel, Power BI e SQL, aplicando conceitos de finanças e contabilidade
 
 📂 Projetos em destaque:
 - Análise de fluxo de caixa
--
 📂 Projetos em desenvolvimento:
 - Análise de DRE com Power BI
 - Análise de Balanço Patrimonial e indicadores financeiros
