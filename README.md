@@ -11,7 +11,7 @@ Atuo com Excel, Power BI e SQL, aplicando conceitos de finanças e contabilidade
 - Análise de DRE no Power BI
 - Análise de Balanço Patrimonial e indicadores financeiros
 
-📌 Este perfil está em constante atualização com novos projetos.
-
 🎓 Formação  
 - Ciências Contábeis
+
+📌 Este perfil está em constante atualização com novos projetos.
